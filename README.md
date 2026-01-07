@@ -21,7 +21,7 @@ This project analyzes beverage sales data from January 2021 to December 2023 to 
 - Which customer segments contribute most to total quantity sold?
 
 ## Tools Used
-- Excel (data cleaning and preparation)
+- SQL (data extraction and aggregation)
 - Power BI (data modeling, analysis, and dashboarding)
 
 ## Key Insights
@@ -53,4 +53,13 @@ This project analyzes beverage sales data from January 2021 to December 2023 to 
 
 ## Outcome
 This analysis provides clear visibility into customer behavior, product performance, and regional sales dynamics. The insights can support strategic decisions related to pricing, customer targeting, inventory planning, and category-level optimization.
+
+<img width="1441" height="815" alt="Summary" src="https://github.com/user-attachments/assets/a49c5da7-5d5a-47ce-9e32-aba0151d194d" />
+
+<img width="1439" height="811" alt="overview" src="https://github.com/user-attachments/assets/3ead5c11-4834-43f8-9ef7-04b12b6474cf" />
+
+[Beverage Sales.sql](https://github.com/user-attachments/files/24472589/Beverage.Sales.sql)
+
+
+
 
